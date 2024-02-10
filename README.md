@@ -7,7 +7,6 @@ Hey there! 👋 I'm Asif, a software engineer who's passionate about pushing the
 - **Name:** Asif Iqbal
 - **Location:** Dhaka, Bangladesh 🌏
 - **Age:** 38 🎂
-- **Relationship:** Happily committed to Fatema Akter Ashamoni (ASHA) 💑
 
 ## 💼 Professional Background
 
